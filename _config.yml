@@ -23,11 +23,11 @@ title: Aleph6a | Amir Bashiri
 description: >- # this means to ignore newlines until "baseurl:"
   I will talk about life, data and economy
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://aleph6a.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: aleph6a.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 twitter_username: _
 github_username:  aleph6a
-domain: aleph6a.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://aleph6a.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # Build settings
 # remote_theme: pages-themes/minimal@v0.2.0
 plugins:
