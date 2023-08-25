@@ -29,11 +29,11 @@ github_username:  aleph6a
 domain: aleph6a.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://aleph6a.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-# theme: minima
+  # - jekyll-remote-theme
+theme: minima
 # plugins:
 
 
